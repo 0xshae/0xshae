@@ -1,5 +1,6 @@
-## Hi there 👋
+# 0xshae | Protocol Engineer 🏴‍☠️
 
+I build privacy-preserving infrastructure and decentralized systems. My focus is on the intersection of **Zero-Knowledge Proofs**, **Self-Sovereign Identity**, and **Rust-based Protocol Engineering**.
 <!--
 **0xshae/0xshae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
