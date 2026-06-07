@@ -1,4 +1,4 @@
-# 0xshae | Agentic Commerce Engineer 🏴‍☠️
+# 0xshae | Software Engineer & DevRel
 
 i build infrastructure for the next version of the internet. one where users, agents, wallets, apis, and businesses can safely transact with each other.
 
